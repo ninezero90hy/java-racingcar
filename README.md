@@ -1,4 +1,7 @@
 # 자동차 경주 게임
+
+[![Build Status](https://travis-ci.com/ninezero90hy/java-racingcar.svg?branch=ninezero90hy)](https://travis-ci.com/ninezero90hy/java-racingcar)
+
 ## 진행 방법
 * 자동차 경주 게임 요구사항을 파악한다.
 * 요구사항에 대한 구현을 완료한 후 자신의 github 아이디에 해당하는 브랜치에 Pull Request(이하 PR)를 통해 코드 리뷰 요청을 한다.
