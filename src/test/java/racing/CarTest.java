@@ -17,7 +17,7 @@ public class CarTest {
             car.run();
         }
 
-        assertThat(car.getPosition()).isEqualTo(0);
+        assertThat(car.getPosition()).isEqualTo(1);
     }
 
     @Test
