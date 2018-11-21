@@ -3,6 +3,6 @@ jdk: oraclejdk8
 install: true
 script:
   - ./gradlew clean build test
-  - ./gradlew codeCoverageReport
+  - if [ -e ./gradlew ]; then ./gradlew jacocoTestReport;else gradle jacocoTestReport;fi
 after_success :
   - bash <(curl -s https://codecov.io/bash)
