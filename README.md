@@ -1,6 +1,7 @@
 # 자동차 경주 게임
 
 [![Build Status](https://travis-ci.com/ninezero90hy/java-racingcar.svg?branch=ninezero90hy)](https://travis-ci.com/ninezero90hy/java-racingcar)
+[![Build Status](https://semaphoreci.com/api/v1/ninezero90hy/java-racingcar/branches/ninezero90hy/badge.svg)](https://semaphoreci.com/ninezero90hy/java-racingcar)
 
 ## 진행 방법
 * 자동차 경주 게임 요구사항을 파악한다.
